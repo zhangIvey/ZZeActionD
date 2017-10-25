@@ -12,7 +12,8 @@
 
 - (void)doSomething {
     
-    NSLog(@"tag = 0.0.1");
+    NSLog(@"ZZeActionD tag = 0.0.1");
+    NSLog(@"ZZeActionD tag = 0.0.2");
 }
 
 @end
